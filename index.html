@@ -1,0 +1,371 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+	<title>Cities in Oregon</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--add required stylesheets-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+	<!--leaflet css-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css">
+
+	<!--add favicon for the web page-->
+	<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+
+	<!--Fonts-->
+	<link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
+
+
+	<link rel="stylesheet" type="text/css" href="css/storymap.2.4.css">
+	<!--add required libraries-->
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"></script>
+	<!--jquery-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+
+	<!--boostrap-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+	<!--leaflet.ajax for asynchronously adding geojson data-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+	<!--mini globle map-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+	<script src="js/globeminimap.js"></script>
+
+	<!--story map plugin-->
+	<script src="js/storymap.2.4.js"></script>
+</head>
+<body>
+
+<div id="storymap" class="container-fluid">
+	<div class="row">
+		<div class="col-sm-6 col-md-4 storymap-story">
+			<section data-scene="overview" data-background="assets/trifest_edited_5.mp4">
+				<div class="fullscreen">
+					<h1 class="display-4 d-flex justify-content-center">tri·ath·lon</h1>
+					<p class="d-flex justify-content-center" style="color: rgba(255,255,255,0.95)"> noun
+						an athletic contest consisting of three different events, typically swimming, cycling, and long-distance running.
+					</p>
+				</div>
+			</section>
+			<section data-scene="portland">
+				<h2> The history of triathlon</h2>
+				<p>Originated from France in the 1920’s. But for the US, Sept 25, 1974 is known as the birthdate of
+					first triathlon event in the US. Located at Mission Bay, San Diego, CA, only 46 ppl competed in a
+					500 yd swim, 5 mi bike ride, and a 6 mi run. Jack Johnstone and Don Shanahan were members of the San
+					Diego Track Club. They created and directed the race together.
+				</p>
+				<img src="img/og.jpg" class="img-responsive img-thumbnail">
+			</section>
+
+			<section data-scene="portland">
+				<h2> The history of IRONMAN</h2>
+				<img src="img/kona.jpg" class="img-responsive img-thumbnail">
+				<p>Originally there were three separate races – the Waikiki Rough Water Swim (2.4 mi), the Oahu Bike
+					Race (112 miles), and the Honolulu Marathon (26.2 mi). In 1978, all three were combined and this was
+					the start of the Hawaii Ironman, which was going to become one of the most famous triathlons in the
+					world. It is now known as IRONMAN World Championship. You must earn your spot to race by being in
+					the top portion of your age group or top 10 overall finishers. (link) There is now the official
+					Ironman brand which holds events all over the world.
+				</p>
+				<p> <a href="img/ks.jpg">Swim course map </a></p>
+				<p> <a href="img/kb.jpg">Bike course map </a></p>
+				<p> <a href="img/kr.jpg">Run course map </a></p>
+			</section>
+
+			<section data-scene="corvallis" data-background="img/background.jpg">
+				<div class="fullscreen text-center scene-title">
+				<h2>Corvallis</h2>
+					<div class="container">
+						<div class="row text-center index-icon">
+							<div class="col-md-3 col-sm-3">
+									<span class="fa-stack fa-4x">
+										<i class="fas fa-map-marker fa-stack-2x text-primary"></i>
+									</span>
+								<h4>
+									Location
+								</h4>
+								<p class="description">Standing Rock</p>
+							</div>
+							<div class="col-md-3 col-sm-3">
+									<span class="fa-stack fa-4x">
+										<i class="fa fa-user fa-stack-2x text-primary"></i>
+									</span>
+								<h4>
+									Population
+								</h4>
+								<p class="description">8,217</p>
+							</div>
+							<div class="col-md-3 col-sm-3">
+									<span class="fa-stack fa-4x">
+									<i class="fa fa-male fa-stack-2x text-primary"></i>
+									</span>
+								<h4>
+									Native American Pop.
+								</h4>
+								<p class="description">6,414</p>
+							</div>
+							<div class="col-md-3 col-sm-3">
+									<span class="fa-stack fa-4x">
+										<i class="fa fa-facebook fa-stack-2x text-primary"></i>
+									</span>
+								<h4>
+									Check-in
+								</h4>
+								<p class="description">337,589</p>
+							</div>
+
+						</div>
+                    </div>
+				</div>
+			</section>
+
+
+			<!--<section data-scene="end" data-background="../../assets/end.jpg">-->
+				<!--<div class="fullscreen text-center">-->
+					<!--<h1 class="display-4 d-flex justify-content-center">Thanks for watching!!!</h1>-->
+					<!--<small class="d-flex justify-content-center" style="color: rgba(255,255,255,0.95)">Your-->
+						<!--Acknowledgement goes here-->
+					<!--</small>-->
+				<!--</div>-->
+			<!--</section>-->
+
+            <section data-scene="corvallis">
+                    <h2> OSU Triathlon Club </h2>
+                <img src="img/club.jpg" class="img-responsive img-thumbnail">
+                    <p>The club is open for anyone to join, no matter the level of experience. Our main goal is to make
+                        triathlon accessible to everyone. We teach club members many aspects of the sport by holding
+                        educational clinics in topics such as nutrition, bike maintenance, and open water swimming. We
+                        host two triathlon fundraisers in the fall and spring. The money raised is used to allow us to
+                        partake in races around the country and buy items to enhance the club’s success. There are
+                        optional practices every day of the week for each sport. For fun we do team meals and social
+                        events to increase connectivity. We practice all year round, but race season is during Spring
+                        and Summer. Without the help from our wonderful coaches and sponsors, our team wouldn’t be
+                        nearly as successful.</p>
+                <img src="img/TCLUB.JPG" class="img-responsive img-thumbnail">
+
+                    <p> <a href="http://stuorgs.oregonstate.edu/triclub">Club Website</a></p>
+            </section>
+
+			<section data-scene="eugene">
+                <h2> <a href="http://www.hotvtriathlon.com/"> Heart of the Valley </a></h2>
+                 <h3>Location: Corvallis, OR </h3>
+				<p>Directed by Best in the West Events, this is a local race that showcases the hidden beauty of
+                    Corvallis’s green rolling hills. HOTV signals the beginning of triathlon season and is a great
+                    determiner of your fitness levels. The swim is in an indoor 50m pool. The bike course has blocked
+                    intersections, wide bike lanes, and straight-forward signage to ensure nobody strays from the course.
+                    After the hard workout, racers enjoy a baked potato bar. This is a best race to do if you’re a novice.</p>
+                <img src="img/hotv.jpg" class="img-responsive img-thumbnail">
+            </section>
+
+			<section data-scene="salem">
+                <h2> <a href="http://www.oregondunestriathlon.com/"> Oregon Dunes </a></h2>
+                <h3>Location: Dunes City, OR </h3>
+				<p>Another Best in the West Events race located on the coast of Dunes City/Florence. It’s an open water
+                    swim that encourages wetsuits. Out of all of their races, this course has the toughest bike portion
+                    because there are many short, steep, and surprising hills. After the bike, racers are sent onto a
+                    beautiful 5k trail run that reveals scenic views of the lake and sand dunes. The best part is
+                    running up a steep sand dune to the finish at the end.</p>
+                <img src="img/dunes.jpg" class="img-responsive img-thumbnail">
+			</section>
+
+			<section data-scene="bend">
+                <h2> <a href="https://www.wildflowerexperience.com/"> Wildflower Triathlon Festival </a></h2>
+                <h3>Location: Lake San Antonio, CA </h3>
+				<p>Known as “The Woodstock for triathlons”, Wildflower is a large triathlon festival with over 8000
+                    racers and 8 different categories of events. Many people from other states and countries travel to
+                    this race because of the inclusivity and positive environment. Last year the event took a haitus
+                    because severe drought caused water levels to be too low, but for 2018 it was back in full swing. Many
+                    professional triathletes can be seen competing.  There are so many volunteers on course that will
+                    cheer you on every mile. This is by far one of the most brutal races that will make you wish you had
+                    trained more. There is shopping, music, camping, and fun for the whole family. Many college teams
+                    travel to this race, so it’s a blast to meet other students participating in a sport we all love.</p>
+                <img src="img/wildflower.png" class="img-responsive img-thumbnail">
+			</section>
+
+            <section data-scene="eugene">
+                <h2> <a href="http://whyracingevents.com/event/989/"> Pacific Crest Endurance Sports Festival </a></h2>
+                <h3>Location: Sunriver, OR </h3>
+                <p>Another large endurance sports festival that had over 4000 racers and 12 different events is called
+                    Pacific Crest. It’s located in Sunriver, OR. It has an open water swim, a bike ride with rolling
+                    hills and views of Mt. Bachelor, and a brutal, sun-exposed run. Why Racing Events is the company
+                    that sets and directs this race. Sunriver is close to Bend so after your done racing, you can pop
+                    over to town and enjoy what Bend has to offer. Their long course is longer than a standard Ironman
+                    distance race, so they call it “Beastman” and they normally have impressive medals.</p>
+                <img src="img/paccr.jpg" class="img-responsive img-thumbnail">
+            </section>
+
+            <section data-scene="eugene">
+                <h2> <a href="http://www.bestinthewesttriathlon.com/"> Best in the West Triathlon Festival </a></h2>
+                <h3> Location: Sweet Home, OR </h3>
+                    <img src="img/bwe.jpg" class="img-responsive img-thumbnail">
+
+                <p>Tri fest has more fun, activities, and spirit than some of the other triathlon festivals. The water
+                    is warm, the bike and run course are scenic. With over 2000 racers, it provides that family feel
+                    that other events cannot produce. This race is noticeably more organized and little details are
+                    pinned down to make the event run smoothly. It’s a fun three-day weekend of camping and racing with
+                    a western theme. All the volunteers happily cheer on racers, and signage is clear. Collegiate teams
+                    from neighboring states come to compete and there is a pasta dinner to meet other racers. Although
+                    this race signals the end of racing season, the season ends on a high note.</p>
+
+                <img src="img/mtb.jpg" class="img-responsive img-thumbnail">
+            </section>
+
+            <section data-scene="eugene">
+                <h2> <a href="http://www.bestinthewestevents.com/"> Best in the West Events </a></h2>
+                <img src="img/bs.jpg" class="img-responsive img-thumbnail">
+                <p>Best in the West Events is the local race event company that hosts 5 triathlons and 3 running events.
+                    It is run by the dynamic duo known as Blair and Staci who are both former members of the OSU
+                    Triathlon Club and are currently coaches and sponsors for the club. Blair is the owner and race director
+                    of BWE while Staci is operations manager, builder, marketer, and director. They put their heart and
+                    soul into every race and I’m humbled to be a part of their posse. We learn a lot of creative hacks and skills that
+                    can be transferrable to other aspects of life. We are a hardworking clan who not only loves to race,
+                    but loves to share the enjoyment and spirit of triathlon.</p>
+                <img src="img/pos.JPG" class="img-responsive img-thumbnail">
+            </section>
+
+			<section data-scene="end" data-background="img/end.JPG">
+                <div class="fullscreen img-center">
+                <div class="fullscreen text-center">
+					<h1 class="display-4 d-flex justify-content-center">Thanks for watching!!!</h1>
+					<small class="d-flex justify-content-center" style="color: rgba(255,255,255,0.95)">Your
+						Acknowledgement goes here
+					</small>
+                </div>
+                </div>
+			</section>
+		</div>
+		<!--map div-->
+		<div class="col-sm-6 col-md-8 storymap-map"></div>
+	</div>
+
+
+	<dl>
+		<dt>
+			<!--facebook icon-->
+			<a class="fab fa-facebook-square btn"
+			   href="https://facebook.com/sharer.php?u=http://geoviz.ceoas.oregonstate.edu/storymap/examples/2.3/video.html"
+			   target="_blank"></a>
+		</dt>
+		<dt>
+			<!--facebook icon-->
+			<a class="fab fa-github btn" href="https://github.com/jakobzhao/storymap" style="top:40px"
+			   target="_blank"></a>
+		</dt>
+		<dt>
+			<!--info icon-->
+			<i class="fas fa-info-circle btn" style="top:60px" data-toggle="modal" data-target="#info-modal"></i>
+		</dt>
+	</dl>
+
+	<!--the info page-->
+	<div class="modal fade" id="info-modal" role="dialog">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">About</h4>
+				</div>
+				<div class="modal-body">
+					<p>This is a web map of major cities in Oregon. It is mainly made as a demo for a course GEOG 371:
+						Web Mapping provided by Oregon State University. The story map library is derived from the
+						storymap plugin for leaflet at <a>http://atlefren.github.io/storymap/</a>, and its functionality
+						relies on both leaflet and Boostrap.</p>
+					<p><b>storymap.js</b> | Released Date: 02/20/2017 | Version: 2.1 | MIT License </p>
+					<p><b>Author: Bo Zhao</b> | College of Earth, Ocean, Atmospheric Science | Oregon State University
+					</p>
+					<p>The context about Oregon cities was collected from Wikipedia.</p>
+					<p>The <a href="https://www.youtube.com/watch?v=UJ_vQC9PNY4">background video</a> on the front page
+						was clipped from Youtube. </p>
+					<p>The favicon image was acquired from <a>http://www.udlcenter.org/advocacy/state/oregon.</a></p>
+					<p>This story map uses geospatial data from mapbox, Google Earth Engine, ESRI Map, Open Street Maps
+						and Oregon Explorer.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- main javascript -->
+<script type="text/javascript">
+
+
+	// Create Legend Contents in html format
+	var county_legend = '<i style="background: orange; opacity: 0.5"></i><p><b>Counties</b></p>';
+	var forest_legend = '<i style="background: green; opacity: 0.5"></i><p><b>Forest</b></p>';
+
+	// For each layer, the first variable is the layer, the second is the legend. The layer variable can be any kinds of layers that leaflet.js supports.
+	// var layers = {
+	//      layer1: {layer: layer1, legend: legend1},
+	//      layer2: {layer: layer2, legend: legend2}
+	//      ...
+	// }
+
+	var layers = {
+		ESRI: {layer: L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}')},
+		counties: {
+			layer: L.geoJson.ajax('../../assets/counties.geojson', {
+				color: 'orange',
+				weight: 2,
+				opacity: 0.3
+			}), legend: county_legend
+		},
+		GEE: {
+			layer: L.tileLayer('http://earthengine.google.org/static/hansen_2013/tree_alpha/{z}/{x}/{y}.png'),
+			legend: forest_legend
+		},
+		satellite: {
+			layer: L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiamFrb2J6aGFvIiwiYSI6ImNpcms2YWsyMzAwMmtmbG5icTFxZ3ZkdncifQ.P9MBej1xacybKcDN_jehvw', {
+				id: 'mapbox.satellite'
+			})
+		},
+		cartodb_light: {layer: L.tileLayer('http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png')}
+	};
+
+	var scenes = {
+		overview: {lat: 44.0000000, lng: -123.5000000, zoom: 7, name: 'Cover Page', layers: []},
+		portland: {lat: 45.5186089, lng: -122.7270297, zoom: 11, name: 'Portland', layers: []},
+		corvallis: {lat: 44.5701158, lng: -123.2949388, zoom: 14, name: 'Corvallis', layers: [layers.ESRI]},
+		eugene: {lat: 44.0549563, lng: -123.0958048, zoom: 13, name: 'Eugene', layers: []},
+		salem: {lat: 44.9419055, lng: -123.0356407, zoom: 13, name: 'Salem', layers: []},
+		bend: {lat: 44.0519385, lng: -121.3042125, zoom: 14, name: 'Bend', layers: [layers.counties, layers.satellite]},
+		oregon: {lat: 44.0000000, lng: -123.5000000, zoom: 7, name: 'Oregon State', layers: [layers.GEE]},
+	};
+
+	$('#storymap').storymap({
+		scenes: scenes,
+		baselayer: layers.cartodb_light,
+		legend: true, // if you do not want a legend feature, you can simply not define the createLegend function.
+		credits: "",
+		loader: true,
+		scalebar: false,
+		flyo: true,
+		navwidget: true,
+
+		createMap: function () {
+			// create a map in the "map" div, set the view to a given place and zoom
+			var map = L.map($(".storymap-map")[0], {
+				zoomControl: false, scrollWheelZoom: false, fadeAnimation: true,
+				zoomAnimation: true
+			}).setView([44, -120], 7);
+
+			//add an miniglobe
+			new L.Control.GlobeMiniMap({
+				marker: 'red',
+				position: 'bottomright'
+			}).addTo(map);
+
+
+			return map;
+		}
+	});
+</script>
+</body>
+</html>
