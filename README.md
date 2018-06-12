@@ -26,7 +26,7 @@ This section is where icons are added so they are located as a toolbar, or somet
 <img src="img/icex.jpg" width="800" height="150" />
 
 Here is where the layers are created for each page. The layer has a geojson, or some sort of file that one wants to use. This will be used for the background of a page on the story map. Each page will have a different file or it can have the same. 
-<img src="img/javex.jpg" width="700" height="300" />
+<img src="img/javex.jpg" width="500" height="300" />
 
 This coding shows the latitude, longitude, and zoom level for a scene layer. This is how the background is centered on the page using this funtion. The numbers are adjustable and the zoom changes to however far in or out the user likes. This is somewhat a styling aspect.
 <img src="img/varex.jpg" width="500" height="150" />
