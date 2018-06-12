@@ -19,7 +19,9 @@ This project is an attempt at show casing the variety that the sport of triathlo
 | ------- | ------ | ------ |  
 | Opening | Video | [Best in the West Events](http://www.bestinthewesttriathlon.com/), [Youtube](https://www.youtube.com/watch?v=ui1xY3JCKN0&t=3s), and Adobe Premiere CC |
 |    1    |    Photo     | [Link](http://lostswimming.com/2012/04/10/the-first-triathlon-ever/) |    
+|   1     |  Information | [History](http://www.triathlonhistory.com/) |
 |    2    |    Photo     | [Link](http://eu.ironman.com/triathlon-news/articles/2015/09/nl_092015_king-of-kona.aspx#axzz5IF1cpG4B) | 
+|    2    | Information | [Ironman Kona History](https://en.wikipedia.org/wiki/Ironman_Triathlon) |
 |    2    |  Course Maps (Swim, bike, run) | [Link](http://www.ironman.com/triathlon/events/americas/ironman/world-championship/athletes/course.aspx#axzz5IF27fOy0) |    
 |   3    |   OSU Tri Club  Link  | [Club Website](http://stuorgs.oregonstate.edu/triclub) |
 |    3   |   Photo  | [Facebook](https://www.facebook.com/photo.php?fbid=1593538143989852&set=g.1836871143245848&type=1&theater&ifg=1) |
