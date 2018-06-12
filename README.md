@@ -7,12 +7,15 @@ This storymap uses D3, Leaflet, and Bootstrap. Many images and a video came from
 This project is an attempt at show casing the variety that the sport of triathlon has to offer. There are more race options than just Ironman, and it's easier to race than most people think. It's an inclusive community that is competitive but also shows tremendous amounts of sportsmanship and "good vibes". There are also various sizes of race events from local to large scale, so that's what I try to convey through this storymap. 
 
 ## Technical Summary
-whenever a project is being formed, the first step is add libraries that you want to use, which can be for styling, fonts, layout, and function.
+Whenever a project is being formed, the first step is adding libraries that you want to use. They help with styling, fonts, layout, and function.
 <img src="img/stex.jpg" width="700" height="150" />
 
-The layout of this storymap is very straightforward and simple. Each page has a background made up of a geojson with the location of the the place being mentioned. Then the side text box holds information about that specific race from a personal experience or about whatever topic the title of the box states. You see that the headline of the text box is blue. That signals the clickable link for users to interact with, so they can investigate further, if they choose. Then there are one to two pictures within each text box to see the location or get an idea of the size of the race.
+Next, the opening page of the storymap is created.
+<img src="img/st.jpg" width="700" height="300" />
+
+The layout of this storymap is very straightforward and simple. Each page has a background made up of a geojson with the location of the the place being mentioned. Then the side text box holds information about that specific race from a personal experience or about whatever topic the title of the box states. You see that the headline of the text box is blue. That signals the clickable link for users to interact with, so they can investigate further, if they choose. Then there are one to two pictures within each text box to see the location or get an idea of the size of the race. This is how it looks.
 <img src="img/ex.jpg" width="700" height="500" />
-Once again, the blue title shows that it's linked to a website that it will show, once it's clicked. the href the chosen website. The opacity must be adjusted so it won't have the background map showing through the image or words within the text box. The source is telling the program where the image is located and which folder to look in. From there, I'm telling the image to let its size be responsive to whatever the size the text box changes to. This is used if different screens looking at the material are different sizes.
+Once again, the blue title shows that it's linked to a website that it will show, once it's clicked. the href the chosen website. The opacity must be adjusted so it won't have the background map showing through the image or words within the text box. The source is telling the program where the image is located and which folder to look in. From there, I'm telling the image to let its size be responsive to whatever the size the text box changes to. This is used if different screens looking at the material are different sizes. This is how the coding for it looks.
 <img src="img/exc.jpg" width="700" height="300" />
 
 ## Sketch
