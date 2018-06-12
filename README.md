@@ -73,8 +73,8 @@ I did not use analytical or statistical data. Information about the history of t
 | Instagram | [Font Awesome](https://fontawesome.com/) |
 | Github | [Font Awesome](https://fontawesome.com/) |
 | Info "I" (about) | [Font Awesome](https://fontawesome.com/) |
-| Triathlon Triangle (favicon) | [Flaticon.com](https://www.flaticon.com/) | 
-| Blue location finder | [Geojson(http://geojson.io/#map=2/20.0/0.0) |
+| Triathlon Triangle (favicon) | [Flaticon](https://www.flaticon.com/) | 
+| Blue location finder | [Geojson](http://geojson.io/#map=2/20.0/0.0) |
 
 ### Credit
 Adobe Premiere CC program for video editing capabilities. Various media conversion websites needed when editing the video. Geojson for creating a program that makes geojsons. Google for finding information. Font Awesome and Flaticon for making useable icons.
