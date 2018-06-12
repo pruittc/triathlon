@@ -7,11 +7,11 @@ This storymap uses D3, Leaflet, and Bootstrap. Many images and a video came from
 This project is an attempt at show casing the variety that the sport of triathlon has to offer. There are more race options than just Ironman, and it's easier to race than most people think. It's an inclusive community that is competitive but also shows tremendous amounts of sportsmanship and "good vibes". There are also various sizes of race events from local to large scale, so that's what I try to convey through this storymap. 
 
 ## Technical Summary
-Whenever a project is being formed, the first step is adding libraries that you want to use. They help with styling, fonts, layout, and function.
+Whenever a project is being formed, the first step is adding libraries that you want to use. They help with styling, fonts, layout, and function. In this case, I'm using Google Fonts library and I chose the font Cairo.
 
 <img src="img/stex.jpg" width="700" height="150" />
 
-Next, the opening page of the storymap is created.
+Next, the opening page of the storymap is created. There is a div, which dictates how the page should be broken up into sections and that I'm doing a storymap format. The slide will be playing the video and in full screen mode, and there will be the title in the center. The <br> are breaks, or spaces in between the lines of words.  
 
 <img src="img/st.jpg" width="700" height="300" />
 
