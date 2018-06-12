@@ -44,10 +44,21 @@ This project is an attempt at show casing the variety that the sport of triathlo
 | 1-9 | Background maps | [Geojson](http://geojson.io/#map=2/20.0/0.0)  |
 | 1-9 | Background maps (satellite form) | [Mapbox](http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}@2x.png') |
 
-I didnot use analytical data. I talked about the races I have done from a personal experience.
+I did not use analytical or statistical data. Information about the history of triathlon and Ironman Kona are noted above. The information about races I did talk about were from personal experiences.
  
 ### Applied Libraries
-
+- Storymap CSS
+- Storymap JS
+- Globeminimap JS
+- Bootstrap
+- Leaflet
+- Animate CSS
+- Google Fonts
+- Font Awesome
+- JQuery
+- Popper JS
+- D3 JS
+- Topojson JS
 ### Fonts
 <h1>Cairo</h1>
 
