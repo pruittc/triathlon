@@ -31,8 +31,11 @@ Fairly simple layout with drone footage (pg 1), and pictures of racers doing all
 | Info "I" (about) | Font Awesome |
 | Triathlon Triangle (favicon) | Flaticon.com | 
 
+###Credit
 
-### Multimedia
+###Acknowledgement
+
+### Multimedia Sources
 I added a Youtube video that showcased Best in the West Triathlon Festival by Best in the West Events. I added many links to different race websites and course maps if the blue titled headers are clicked. Pictures were used from my photograher friend Michael Graw. I used a race picture from my friend Jake Taylor. There will be a geojson of the races within the valley and links for each website. And more triathlon photos as well.
 ![alt text](img/club.jpg)
 
