@@ -17,7 +17,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 ### Data Source
 | Slide # | Object | Source |
 | ------- | ------ | ------ |  
-| Opening | Video | [Best in the West Events](http://www.bestinthewesttriathlon.com/) [Youtube](https://www.youtube.com/watch?v=ui1xY3JCKN0&t=3s) |
+| Opening | Video | [Best in the West Events](http://www.bestinthewesttriathlon.com/), [Youtube](https://www.youtube.com/watch?v=ui1xY3JCKN0&t=3s), and Adobe Premiere CC |
 |    1    |    Photo     | [Link](http://lostswimming.com/2012/04/10/the-first-triathlon-ever/) |    
 |    2    |    Photo     | [Link](http://eu.ironman.com/triathlon-news/articles/2015/09/nl_092015_king-of-kona.aspx#axzz5IF1cpG4B) | 
 |    2    |  Course Maps (Swim, bike, run) | [Link](http://www.ironman.com/triathlon/events/americas/ironman/world-championship/athletes/course.aspx#axzz5IF27fOy0) |    
