@@ -11,7 +11,7 @@ Whenever a project is being formed, the first step is adding libraries that you 
 
 <img src="img/stex.jpg" width="700" height="150" />
 
-Next, the opening page of the storymap is created. There is a div, which dictates how the page should be broken up into sections and that I'm doing a storymap format. The slide will be playing the video and in full screen mode, and there will be the title in the center. There are breaks/ spaces in between the lines of words.  
+Next, the opening page of the storymap is created. There is a div, which dictates how the page should be broken up into sections and that I'm doing a storymap format. The slide will be playing the video and in full screen mode, and there will be the title in the center. There are breaks/ spaces in between the lines of words. And the words should be centered on the page.  
 
 <img src="img/st.jpg" width="700" height="300" />
 
@@ -20,6 +20,14 @@ The layout of this storymap is very straightforward and simple. Each page has a 
 
 Once again, the blue title shows that it's linked to a website that it will show, once it's clicked. the href the chosen website. The opacity must be adjusted so it won't have the background map showing through the image or words within the text box. The source is telling the program where the image is located and which folder to look in. From there, I'm telling the image to let its size be responsive to whatever the size the text box changes to. This is used if different screens looking at the material are different sizes. This is how the coding for it looks.
 <img src="img/exc.jpg" width="700" height="300" />
+
+<img src="img/icex.jpg" width="700" height="300" />
+
+
+
+
+
+
 
 ## Sketch
 <img src="img/Sm_Sketch.jpg" width="400" height="400" />
