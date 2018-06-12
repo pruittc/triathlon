@@ -7,8 +7,8 @@ This storymap uses D3, Leaflet, and Bootstrap. Many images and a video came from
 This project is an attempt at show casing the variety that the sport of triathlon has to offer. There are more race options than just Ironman, and it's easier to race than most people think. It's an inclusive community that is competitive but also shows tremendous amounts of sportsmanship and "good vibes". There are also various sizes of race events from local to large scale, so that's what I try to convey through this storymap. 
 
 ## Technical Summary
-<img src="ex.jpg" width="400" height="400" />
-<img src="exc.jpg" width="400" height="400" />
+<img src="img/ex.jpg" width="400" height="400" />
+<img src="img/exc.jpg" width="400" height="400" />
 
 ## Sketch
 <img src="img/Sm_Sketch.jpg" width="400" height="400" />
