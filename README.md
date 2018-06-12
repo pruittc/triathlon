@@ -33,7 +33,7 @@ This coding shows the latitude, longitude, and zoom level for a scene layer. Thi
 <img src="img/varex.jpg" width="400" height="300" />
 
 Here is the coding to show how the mini globe map was added to the storymap. It was told to be in the bottom right corner and to have a red marker. This is another function and the position and marker color is customizable.
-<img src="img/minex.jpg" width="400" height="250" />
+<img src="img/minex.jpg" width="400" height="100" />
 
 
 
