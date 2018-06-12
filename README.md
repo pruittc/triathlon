@@ -104,7 +104,7 @@ I did not use analytical or statistical data. Information about the history of t
 | Blue location finder | [Geojson](http://geojson.io/#map=2/20.0/0.0) |
 
 ## Credit
-Adobe Premiere CC program for video editing capabilities. Media conversion website [Online Video Converter](https://www.onlinevideoconverter.com/cloud-converter) was used for converting the original video from AVi to MP4. Geojson for creating a program that makes geojsons. Google for finding information. Font Awesome and Flaticon for making useable icons. Most of the credit is in **Data Source**.
+Adobe Premiere CC program for video editing capabilities. Media conversion website [Online Video Converter](https://www.onlinevideoconverter.com/cloud-converter) was used for converting the original video from AVI to MP4. Geojson for creating a program that makes geojsons. Google for finding information. Font Awesome and Flaticon for making useable icons. Most of the credit is in **Data Source**.
 
 ## Acknowledgement
 HUGE thank you to Bo Zhao for helping me immensenly since I was working alone for this project. I would like to thank Best in the West Events for allowing me to use their video and photos. I would like to think my good friends Michael Graw who let me use a photo from his photography page and Jake Taylor for using his race photo. Thanks Adobe for making extensive editing programs. And special thanks to Jared for being patient throughout the duration of this class. Thank you to CEOAS for creating this class and OSU for being a competitive, enriching, and educaitonal university. Lastly my parents, family, college friends, and roommate for cheering me to the finish!
