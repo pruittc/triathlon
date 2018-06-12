@@ -15,7 +15,18 @@ This project is an attempt at show casing the variety that the sport of triathlo
 ![alt text](img/color_scheme.png)
 
 ### Data Source
-Fairly simple layout with drone footage (pg 1), and pictures of racers doing all three portions (pg 2). If I have time to be fancy, I would like to show drone footage of each event if they click on the swim/bike/run picture tiles (on pg 2). I want to introduce more people to triathlon and talk about why I love it so much. So the layout will be pretty simple with stuff to look at. I think the timeline and expanding map will be a nice feature to show the growth of triathlon events all over the world. If I have time, I would like to have a tab that if clicked upon, will show various stories of inspirational triathletes, maybe after pg 4. On the credits page, I will add info if people want to sign up for a race, etc. or maybe have separate tabs for different races in the valley.
+| Slide # | Object | Source |
+| ------- | ------ | ------ |  
+| Opening | Video | Best in the West Events, Youtube |
+|    1    |    Photo     | [ink](http://lostswimming.com/2012/04/10/the-first-triathlon-ever/) |    
+|    2    |    Photo     | [Link](http://eu.ironman.com/triathlon-news/articles/2015/09/nl_092015_king-of-kona.aspx#axzz5IF1cpG4B) | 
+|    2    |  Course Maps (Swim, bike, run) | [Link](http://www.ironman.com/triathlon/events/americas/ironman/world-championship/athletes/course.aspx#axzz5IF27fOy0) |    
+|        |         |        |
+|        |         |        |
+|        |         |        |
+|        |         |        |
+|        |         |        |
+|        |         |        |
  
 ### Applied Libraries
 
