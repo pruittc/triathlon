@@ -68,9 +68,9 @@ Here is the coding to show how the mini globe map was added to the storymap. It 
 |  9   |  Business Link  | [BWE](http://www.bestinthewestevents.com/) |
 |  9  |  Photo #1  | [Blair and Staci](https://www.facebook.com/photo.php?fbid=10103375405756798&set=a.712675730158.2300805.19708034&type=3&theater) |
 |   9  | Photo #2 | [Posse](http://www.bestinthewestevents.com/meet-the-posse.html) |
-| End | Background photo | [Jake's FB](https://www.facebook.com/BestInTheWestEvents/photos/t.100001804947425/654490671301802/?type=3&theater) |
 | 1-9 | Background maps | [Geojson](http://geojson.io/#map=2/20.0/0.0)  |
 | 1-9 | Background maps (satellite form) | [Mapbox](http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}@2x.png') |
+| End | Background photo | [Jake's FB](https://www.facebook.com/BestInTheWestEvents/photos/t.100001804947425/654490671301802/?type=3&theater) |
 
 I did not use analytical or statistical data. Information about the history of triathlon and Ironman Kona are noted above. The information about races I did talk about were from personal experiences.
  
