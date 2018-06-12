@@ -8,9 +8,11 @@ This project is an attempt at show casing the variety that the sport of triathlo
 
 ## Technical Summary
 Whenever a project is being formed, the first step is adding libraries that you want to use. They help with styling, fonts, layout, and function.
+
 <img src="img/stex.jpg" width="700" height="150" />
 
 Next, the opening page of the storymap is created.
+
 <img src="img/st.jpg" width="700" height="300" />
 
 The layout of this storymap is very straightforward and simple. Each page has a background made up of a geojson with the location of the the place being mentioned. Then the side text box holds information about that specific race from a personal experience or about whatever topic the title of the box states. You see that the headline of the text box is blue. That signals the clickable link for users to interact with, so they can investigate further, if they choose. Then there are one to two pictures within each text box to see the location or get an idea of the size of the race. This is how it looks.
