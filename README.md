@@ -39,7 +39,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 |  9  |  Photo #1  | [Blair and Staci](https://www.facebook.com/photo.php?fbid=10103375405756798&set=a.712675730158.2300805.19708034&type=3&theater) |
 |   9  | Photo #2 | [Posse](http://www.bestinthewestevents.com/meet-the-posse.html) |
 | End | Background photo | [Jake's FB](https://www.facebook.com/BestInTheWestEvents/photos/t.100001804947425/654490671301802/?type=3&theater) |
-| 1-9 | Background map | [Website Link](http://geojson.io/#map=2/20.0/0.0)  |
+| 1-9 | Background maps | [Geojson Link](http://geojson.io/#map=2/20.0/0.0)  |
 
  
 ### Applied Libraries
