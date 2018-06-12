@@ -9,7 +9,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 ## Technical Summary
 Whenever a project is being formed, the first step is adding libraries that you want to use. They help with styling, fonts, layout, and function. In this case, I'm using Google Fonts library and I chose the font Cairo.
 
-<img src="img/stex.jpg" width="400" height="150" />
+<img src="img/stex.jpg" width="800" height="150" />
 
 Next, the opening page of the storymap is created. There is a div, which dictates how the page should be broken up into sections and that I'm doing a storymap format. The slide will be playing the video and in full screen mode, and there will be the title in the center. There are breaks/ spaces in between the lines of words. And the words should be centered on the page.  
 
