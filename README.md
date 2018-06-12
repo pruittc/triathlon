@@ -23,6 +23,12 @@ Once again, the blue title shows that it's linked to a website that it will show
 
 <img src="img/icex.jpg" width="700" height="300" />
 
+<img src="img/javex.jpg" width="700" height="300" />
+
+<img src="img/varex.jpg" width="700" height="300" />
+
+<img src="img/minex.jpg" width="700" height="300" />
+
 
 
 
