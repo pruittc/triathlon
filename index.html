@@ -320,10 +320,9 @@
 
 
 	var layers = {
-		ESRI: {layer: L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}')},
-		hist: {
+	hist: {
             layer: L.geoJson.ajax('assets/sandiego.geojson')
-        },
+        	},
 		ko: {
 			layer: L.geoJson.ajax('assets/kona2.geojson'),
 		},
