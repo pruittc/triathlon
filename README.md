@@ -9,6 +9,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 ## Technical Summary
 <img src="ex.jpg" width="400" height="400" />
 <img src="exc.jpg" width="400" height="400" />
+
 ## Sketch
 <img src="img/Sm_Sketch.jpg" width="400" height="400" />
 
