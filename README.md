@@ -18,7 +18,7 @@ Next, the opening page of the storymap is created. There is a div, which dictate
 The layout of this storymap is very straightforward and simple. Each page has a background made up of a geojson with the location of the the place being mentioned. Then the side text box holds information about that specific race from a personal experience or about whatever topic the title of the box states. You see that the headline of the text box is blue. That signals the clickable link for users to interact with, so they can investigate further, if they choose. Then there are one to two pictures within each text box to see the location or get an idea of the size of the race. This is how it looks.
 <img src="img/ex.jpg" width="700" height="500" />
 
-Once again, the blue title shows that it's linked to a website that it will show, once it's clicked. the href the chosen website. The opacity must be adjusted so it won't have the background map showing through the image or words within the text box. The source is telling the program where the image is located and which folder to look in. From there, I'm telling the image to let its size be responsive to whatever the size the text box changes to. This is used if different screens looking at the material are different sizes. This is how the coding for it looks.
+Once again, the blue title shows that it's linked to a website that it will show, once it's clicked. the href the chosen website. The opacity must be adjusted so it won't have the background map showing through the image or words within the text box. The source is telling the program where the image is located and which folder to look in. From there, I'm telling the image to let its size be responsive to whatever the size the text box changes to. This is used if different screens looking at the material are different sizes. The data layer is a geojson showing the location of Dixon Rec Center. This is how the coding for it looks.
 <img src="img/exc.jpg" width="700" height="300" />
 
 This section is where icons are added so they are located as a toolbar, or something that can be accessed on all pages of the storymap. Depending on which icon you click, you can either be taken to anothe website, or a toggle box will appear with more information or other website links. The i class is used to find that icon in the font awesome library. If the correct version is not in the listed library, it will not be found.
@@ -27,8 +27,10 @@ This section is where icons are added so they are located as a toolbar, or somet
 Here is where the layers are created for each page. The layer has a geojson, or some sort of file that one wants to use. This will be used for the background of a page on the story map. Each page will have a different file or it can have the same. 
 <img src="img/javex.jpg" width="700" height="300" />
 
+This coding shows the latitude, longitude, and zoom level for a scene layer. This is how the background is centered on the page using this funtion. The numbers are adjustable and the zoom changes to however far in or out the user likes. This is somewhat a styling aspect.
 <img src="img/varex.jpg" width="700" height="300" />
 
+Here is the coding to show how the mini globe map was added to the storymap. It was told to be in the bottom right corner and to have a red marker. This is another function and the position and marker color is customizable.
 <img src="img/minex.jpg" width="700" height="300" />
 
 
