@@ -3,18 +3,18 @@
 ## Project Description
 This storymap uses D3, Leaflet, and Bootstrap. Many images and a video came from multiple sources. And many links to various websites were used to put together a presentation to show the sport of triathlon and the impact it has had on my life and how I became more involved.
 
-### Project Goal
+## Project Goal
 This project is an attempt at show casing the variety that the sport of triathlon has to offer. There are more race options than just Ironman, and it's easier to race than most people think. It's an inclusive community that is competitive but also shows tremendous amounts of sportsmanship and "good vibes". There are also various sizes of race events from local to large scale, so that's what I try to convey through this storymap. 
 
-### Technical Summary
+## Technical Summary
 
-### Sketch
+## Sketch
 <img src="img/Sm_Sketch.jpg" width="400" height="400" />
 
-### Design Scheme
+## Design Scheme
 <img src="img/color_scheme.png" width="500" height="400" /> 
 
-### Data Source
+## Data Source
 | Slide # | Object | Source |
 | ------- | ------ | ------ |  
 | Opening | Video | [Best in the West Events](http://www.bestinthewesttriathlon.com/), [Youtube](https://www.youtube.com/watch?v=ui1xY3JCKN0&t=3s), and Adobe Premiere CC |
@@ -46,7 +46,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 
 I did not use analytical or statistical data. Information about the history of triathlon and Ironman Kona are noted above. The information about races I did talk about were from personal experiences.
  
-### Applied Libraries
+## Applied Libraries
 
  - Storymap CSS
  - Leaflet 
@@ -63,10 +63,10 @@ I did not use analytical or statistical data. Information about the history of t
  - HTML
 
 
-### Fonts
+## Fonts
 - <h1> <small>Cairo</small></h1>
 
-### Favicons, etc.
+## Favicons, etc.
 
 | Icon | Source |
 | ---- | ------ |
@@ -76,10 +76,10 @@ I did not use analytical or statistical data. Information about the history of t
 | Triathlon Triangle (favicon) | [Flaticon](https://www.flaticon.com/) | 
 | Blue location finder | [Geojson](http://geojson.io/#map=2/20.0/0.0) |
 
-### Credit
+## Credit
 Adobe Premiere CC program for video editing capabilities. Various media conversion websites needed when editing the video. Geojson for creating a program that makes geojsons. Google for finding information. Font Awesome and Flaticon for making useable icons.
 
-### Acknowledgement
+## Acknowledgement
 HUGE thank you to Bo Zhao for helping me immensenly since I was working alone for this project. I would like to thank Best in the West Events for allowing me to use their video and photos. I would like to think my good friends Michael Graw who let me use a photo from his photography page and Jake Taylor for using his race photo. Thanks Adobe for making extensive editing programs. And special thanks to Jared for being patient throughout the duration of this class. Thank you to CEOAS for creating this class and OSU for being a competitive, enriching, and educaitonal university. Lastly my parents, family, college friends, and roommate for cheering me to the finish!
 
 
