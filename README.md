@@ -62,7 +62,6 @@ I did not use analytical or statistical data. Information about the history of t
  - Topojson JS
  - HTML
 
-
 ## Fonts
 - <h1> <sub>Cairo</sub <h1> 
 
