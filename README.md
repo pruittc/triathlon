@@ -1,6 +1,6 @@
 # **Triathlon**
 
-### Project Description
+## Project Description
 This storymap uses D3, Leaflet, and Bootstrap. Many images and a video came from multiple sources. And many links to various websites were used to put together a presentation to show the sport of triathlon and the impact it has had on my life and how I became more involved.
 
 ### Project Goal
