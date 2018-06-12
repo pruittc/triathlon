@@ -47,18 +47,13 @@ This project is an attempt at show casing the variety that the sport of triathlo
 I did not use analytical or statistical data. Information about the history of triathlon and Ironman Kona are noted above. The information about races I did talk about were from personal experiences.
  
 ### Applied Libraries
-- Storymap CSS
-- Storymap JS
-- Globeminimap JS
-- Bootstrap
-- Leaflet
-- Animate CSS
-- Google Fonts
-- Font Awesome
-- JQuery
-- Popper JS
-- D3 JS
-- Topojson JS
+
+| - Storymap CSS | - Leaflet | - JQuery |
+| - Storymap JS |- Animate CSS | - Popper JS |
+| - Globeminimap JS | - Google Fonts | - D3 JS |
+| - Bootstrap | - Font Awesome | - Topojson JS |
+
+
 ### Fonts
 <h1>Cairo</h1>
 
