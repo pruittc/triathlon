@@ -23,13 +23,13 @@ Once again, the blue title shows that it's linked to a website that it will show
 
 This section is where icons are added so they are located as a toolbar, or something that can be accessed on all pages of the storymap. Depending on which icon you click, you can either be taken to anothe website, or a toggle box will appear with more information or other website links. The i class is used to find that icon in the font awesome library. If the correct version is not in the listed library, it will not be found.
 
-img src="img/icex.jpg" width="500" height="150" />
+<img src="img/icex.jpg" width="500" height="150" />
 
 Here is where the layers are created for each page. The layer has a geojson, or some sort of file that one wants to use. This will be used for the background of a page on the story map. Each page will have a different file or it can have the same. 
 <img src="img/javex.jpg" width="700" height="300" />
 
 This coding shows the latitude, longitude, and zoom level for a scene layer. This is how the background is centered on the page using this funtion. The numbers are adjustable and the zoom changes to however far in or out the user likes. This is somewhat a styling aspect.
-<img src="img/varex.jpg" width="600" height="150" />
+<img src="img/varex.jpg" width="500" height="150" />
 
 Here is the coding to show how the mini globe map was added to the storymap. It was told to be in the bottom right corner and to have a red marker. This is another function and the position and marker color is customizable.
 <img src="img/minex.jpg" width="700" height="300" />
