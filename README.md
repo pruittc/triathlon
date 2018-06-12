@@ -40,7 +40,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 |   9  | Photo #2 | [Posse](http://www.bestinthewestevents.com/meet-the-posse.html) |
 | End | Background photo | [Jake's FB](https://www.facebook.com/BestInTheWestEvents/photos/t.100001804947425/654490671301802/?type=3&theater) |
 | 1-9 | Background maps | [Geojson Link](http://geojson.io/#map=2/20.0/0.0)  |
-| 1-9 | Background maps in satellite form | [Mapbox](https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiamFrb2J6aGFvIiwiYSI6ImNpcms2YWsyMzAwMmtmbG5icTFxZ3ZkdncifQ.P9MBej1xacybKcDN_jehvw) |
+| 1-9 | Background maps in satellite form | [Mapbox](http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}@2x.png') |
 
  
 ### Applied Libraries
