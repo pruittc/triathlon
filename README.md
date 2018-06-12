@@ -31,6 +31,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 |   6  | Link    |[WildFlower Race Page](https://www.wildflowerexperience.com/) |
 |   6  |  Photo  | [Article Link](https://babbittville.com/wildflower-triathlon-returns-2018/) |
 |   7  | Link | [Pac Crest Race Page](http://whyracingevents.com/event/989/) |
+|  7   | Photo   | [Pac Crest Old Race Page](http://www.sunriverpaccrest.com/) |
 |   8  | Link  |[Tri Fest Race Page](http://www.bestinthewesttriathlon.com/) |
 |  8   | Photo #1 | [Swim Pic](https://linnparks.com/parks/lewis-creek/) |
 |   8  | Photo #2 | [Finish Arch](https://www.facebook.com/wanderingsolephotography/) |
