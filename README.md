@@ -22,7 +22,7 @@ Once again, the blue title shows that it's linked to a website that it will show
 <img src="img/exc.jpg" width="700" height="300" />
 
 This section is where icons are added so they are located as a toolbar, or something that can be accessed on all pages of the storymap. Depending on which icon you click, you can either be taken to anothe website, or a toggle box will appear with more information or other website links. The i class is used to find that icon in the font awesome library. If the correct version is not in the listed library, it will not be found.
-<img src="img/icex.jpg" width="600" height="300" />
+<img src="img/icex.jpg" width="500" height="150" />
 
 Here is where the layers are created for each page. The layer has a geojson, or some sort of file that one wants to use. This will be used for the background of a page on the story map. Each page will have a different file or it can have the same. 
 <img src="img/javex.jpg" width="700" height="300" />
