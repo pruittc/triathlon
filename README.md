@@ -40,6 +40,8 @@ This project is an attempt at show casing the variety that the sport of triathlo
 |   9  | Photo #2 | [Posse](http://www.bestinthewestevents.com/meet-the-posse.html) |
 | End | Background photo | [Jake's FB](https://www.facebook.com/BestInTheWestEvents/photos/t.100001804947425/654490671301802/?type=3&theater) |
 | 1-9 | Background maps | [Geojson Link](http://geojson.io/#map=2/20.0/0.0)  |
+| 1-9 | Background maps in satellite form | [Mapbox](https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiamFrb2J6aGFvIiwiYSI6ImNpcms2YWsyMzAwMmtmbG5icTFxZ3ZkdncifQ.P9MBej1xacybKcDN_jehvw', {
+				id: 'mapbox.satellite) |
 
  
 ### Applied Libraries
@@ -57,12 +59,10 @@ This project is an attempt at show casing the variety that the sport of triathlo
 | Triathlon Triangle (favicon) | Flaticon.com | 
 
 ### Credit
+Adobe Premiere CC program for video editing capabilities. Various media conversion websites needed when editing the video. Geojson for
 
 ### Acknowledgement
-
-### Multimedia Sources
-I added a Youtube video that showcased Best in the West Triathlon Festival by Best in the West Events. I added many links to different race websites and course maps if the blue titled headers are clicked. Pictures were used from my photograher friend Michael Graw. I used a race picture from my friend Jake Taylor. There will be a geojson of the races within the valley and links for each website. And more triathlon photos as well.
-![alt text](img/club.jpg)
+HUGE thank you to Bo Zhao for helping me immensenly since I was alone for this project. I would like to thank Best in the West Events for allowing me to use their video and photos. I would like to think my good friends Michael Graw who let me use a photo from his photography page and Jake Taylor for using his race photo. Thanks Adobe for making extensive editing programs. And special thanks to Jared for being patient throughout the duration of this class. Lastly my college friends and roommates for cheering me to the finish!
 
 
 
