@@ -9,7 +9,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 ## Technical Summary
 Whenever a project is being formed, the first step is adding libraries that you want to use. They help with styling, fonts, layout, and function. In this case, I'm using Google Fonts library and I chose the font Cairo.
 
-<img src="img/stex.jpg" width="600" height="150" />
+<img src="img/stex.jpg" width="500" height="150" />
 
 Next, the opening page of the storymap is created. There is a div, which dictates how the page should be broken up into sections and that I'm doing a storymap format. The slide will be playing the video and in full screen mode, and there will be the title in the center. There are breaks/ spaces in between the lines of words. And the words should be centered on the page.  
 
@@ -22,7 +22,8 @@ Once again, the blue title shows that it's linked to a website that it will show
 <img src="img/exc.jpg" width="700" height="300" />
 
 This section is where icons are added so they are located as a toolbar, or something that can be accessed on all pages of the storymap. Depending on which icon you click, you can either be taken to anothe website, or a toggle box will appear with more information or other website links. The i class is used to find that icon in the font awesome library. If the correct version is not in the listed library, it will not be found.
-<img src="img/icex.jpg" width="500" height="150" />
+
+img src="img/icex.jpg" width="500" height="150" />
 
 Here is where the layers are created for each page. The layer has a geojson, or some sort of file that one wants to use. This will be used for the background of a page on the story map. Each page will have a different file or it can have the same. 
 <img src="img/javex.jpg" width="700" height="300" />
