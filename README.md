@@ -64,7 +64,7 @@ I did not use analytical or statistical data. Information about the history of t
 
 
 ### Fonts
-<h1><small>Cairo</small></h1>
+-<h1><small>Cairo</small></h1>
 
 ### Favicons, etc.
 
