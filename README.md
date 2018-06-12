@@ -28,7 +28,7 @@ This project is an attempt at show casing the variety that the sport of triathlo
 |   4     |   Photo   | [Google image search](https://www.google.com/search?q=heart+of+the+valley+triathlon&rlz=1C1GGRV_enUS800US800&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiSx9-59M7bAhWE_p8KHTgkDnkQ_AUICygC&biw=958&bih=1074#imgrc=1m4UtqGH4t2AgM:) |
 |   5     |    Race Link   | [Dunes Race Page](http://www.oregondunestriathlon.com/) |
 |   5     |    Photo  | [Google image search](https://www.google.com/search?rlz=1C1GGRV_enUS800US800&biw=958&bih=1074&tbm=isch&sa=1&ei=rB8gW8GIGov10wKC4L7wBA&q=dunes+triathlon&oq=dunes+triathlon&gs_l=img.3..0i24k1.2144021.2146971.0.2147129.16.12.0.4.4.0.84.536.11.11.0....0...1c.1.64.img..1.15.542.0..0j0i67k1j0i5i30k1j0i8i30k1.0.YXmlMwIJ69k#imgrc=2ImsUkb7GxUoNM:) |
-|   6  |  Race Link    |[WildFlower Race Page](https://www.wildflowerexperience.com/) |
+|   6  |  Race Link    |[Wildflower Race Page](https://www.wildflowerexperience.com/) |
 |   6  |  Photo  | [Article Link](https://babbittville.com/wildflower-triathlon-returns-2018/) |
 |   7  |  Race Link | [Pac Crest Race Page](http://whyracingevents.com/event/989/) |
 |  7   | Photo   | [Pac Crest Old Race Page](http://www.sunriverpaccrest.com/) |
@@ -39,8 +39,8 @@ This project is an attempt at show casing the variety that the sport of triathlo
 |  9  |  Photo #1  | [Blair and Staci](https://www.facebook.com/photo.php?fbid=10103375405756798&set=a.712675730158.2300805.19708034&type=3&theater) |
 |   9  | Photo #2 | [Posse](http://www.bestinthewestevents.com/meet-the-posse.html) |
 | End | Background photo | [Jake's FB](https://www.facebook.com/BestInTheWestEvents/photos/t.100001804947425/654490671301802/?type=3&theater) |
-| 1-9 | Background maps | [Geojson Link](http://geojson.io/#map=2/20.0/0.0)  |
-| 1-9 | Background maps in satellite form | [Mapbox](http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}@2x.png') |
+| 1-9 | Background maps | [Geojson](http://geojson.io/#map=2/20.0/0.0)  |
+| 1-9 | Background maps (satellite form) | [Mapbox](http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}@2x.png') |
 
  
 ### Applied Libraries
