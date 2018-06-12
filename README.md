@@ -79,7 +79,7 @@ I did not use analytical or statistical data. Information about the history of t
 Adobe Premiere CC program for video editing capabilities. Various media conversion websites needed when editing the video. Geojson for
 
 ### Acknowledgement
-HUGE thank you to Bo Zhao for helping me immensenly since I was alone for this project. I would like to thank Best in the West Events for allowing me to use their video and photos. I would like to think my good friends Michael Graw who let me use a photo from his photography page and Jake Taylor for using his race photo. Thanks Adobe for making extensive editing programs. And special thanks to Jared for being patient throughout the duration of this class. Thank you to CEOAS for creating this class and OSU for being a competitive, enriching, and educaitonal university Lastly my college friends and roommates for cheering me to the finish!
+HUGE thank you to Bo Zhao for helping me immensenly since I was alone for this project. I would like to thank Best in the West Events for allowing me to use their video and photos. I would like to think my good friends Michael Graw who let me use a photo from his photography page and Jake Taylor for using his race photo. Thanks Adobe for making extensive editing programs. And special thanks to Jared for being patient throughout the duration of this class. Thank you to CEOAS for creating this class and OSU for being a competitive, enriching, and educaitonal university. Lastly my parents, family, college friends, and roommate for cheering me to the finish!
 
 
 
